@@ -6,6 +6,7 @@ Game Type - 3
 
 Plugins:
 https://cs2.poggu.me/metamod/installation/
+
 https://github.com/roflmuffin/CounterStrikeSharp/releases
 https://github.com/Source2ZE/MovementUnlocker
 https://github.com/Interesting-exe/CS2Fixes-RampbugFix/
