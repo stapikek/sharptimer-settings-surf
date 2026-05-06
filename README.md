@@ -1,5 +1,4 @@
-# sharptimer-settings
-settings for sharptimer
+# sharptimer-settings-surf
 
 Game Mode - 0
 Game Type - 3
